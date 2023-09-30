@@ -83,11 +83,3 @@ List<IconData> barIcon = [
   Icons.auto_mode_sharp,
   Icons.workspaces,
 ];
-
-
-
-
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/R-Rubab/Flutter_Digital_Banking_App.git
-// git push -u origin main
