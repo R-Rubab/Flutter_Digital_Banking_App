@@ -1,5 +1,6 @@
 # flutter_application_4
 
+![Screenshot_1688139115](https://github.com/R-Rubab/Flutter_Digital_Banking_App/assets/110218324/0e5f4b96-2ac6-4dc2-af5c-a6ba71f15560)
 A new Flutter project.
 
 ## Getting Started
