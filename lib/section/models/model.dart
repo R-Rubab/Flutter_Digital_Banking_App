@@ -47,7 +47,7 @@ List<Activities> activities = [
   Activities(
       icon: Icons.food_bank_outlined,
       name: 'Food Store',
-      price: '-£23,5',
+      price:'-£23,5',
       date: 'Monday  10,  june'),
   Activities(
       icon: Icons.fastfood_rounded,

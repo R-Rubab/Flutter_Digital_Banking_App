@@ -1,5 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_application_4/section/homepage.dart';
 
 import 'auth/splashscreen.dart';
 
@@ -23,8 +24,8 @@ class MyApp extends StatelessWidget {
 
       // onGenerateRoute: (setting) => generatorRoute(setting),
       // home: const PhoneNumbers(),
-      home: const SplashScreen(),
-      // home: const MyHomePage(),
+      // home: const SplashScreen(),
+      home: const MyHomePage(),
       // home: const LoginScreen(),
     );
   }
