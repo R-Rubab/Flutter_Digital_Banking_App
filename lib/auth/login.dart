@@ -1,14 +1,11 @@
 import 'dart:async';
 
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_application_4/auth/phone.dart';
 import 'package:flutter_application_4/auth/signup.dart';
-import 'package:flutter_application_4/auth/toast.dart';
 import 'package:flutter_application_4/const_colors/const.dart';
 
-import '../postScreen/postscreen.dart';
 import '../widgets/formfield.dart';
 
 class LoginScreen extends StatefulWidget {
