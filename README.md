@@ -1,4 +1,4 @@
-# flutter_application_4
+# Flutter_Digital_Banking_App
 A new Flutter project.
 
 ## Getting Started
