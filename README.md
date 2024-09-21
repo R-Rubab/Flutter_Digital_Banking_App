@@ -2,6 +2,8 @@
 A new Flutter project.
 
 ## Getting Started
+<img width="407" alt="digital banking" src="https://github.com/user-attachments/assets/4a6c44f1-8ac4-425d-916e-d3cde1a6ea6f">
+
 
 This project is a starting point for a Flutter application.
 
